@@ -1,6 +1,6 @@
 # Dummy-Museum
 
-A dummy web application created in Oracle Apex with a theme of Museum, just to show different functionalities and features.
+A dummy web application created in Oracle Apex with a theme of Museum, just to show different functionalities and features. The application can be accessed [here](https://apex.oracle.com/pls/apex/work_spree_capital/r/museum).
 
 ![Login screenshot as generated on 20th Dec 2019](https://github.com/simarmannsingh/Dummy-Museum/blob/master/apex-preview1.png)
 ![Main Menu](https://github.com/simarmannsingh/Dummy-Museum/blob/master/apex-preview2.png)
